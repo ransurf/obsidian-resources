@@ -47,11 +47,6 @@ ___
 <%tp.file.include("[[Dailies]]")%>
 ## Reflection
 ### Lingering Feelings, Observations, Thoughts
-```ad-note
-title: Today In One Sentence
-collapse: none
-
-```
 
 ### Productivity
 #### Book Implementation
