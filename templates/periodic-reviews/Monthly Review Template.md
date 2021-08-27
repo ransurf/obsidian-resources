@@ -61,9 +61,6 @@ Focus::
 - 
 ## Overview
 ### Key Metrics
-```ad-danger
-title: Focused Hours
-collapse: open
 Week 1-
 Week 2-
 Week 3-
@@ -71,7 +68,6 @@ Week 4-
 Total Hours:
 Hours average: 
 Thoughts?
-```
 ### Prompts
 **Did you complete what you set out to do in the previous weekly review? Are you content?**
 - 
