@@ -3,7 +3,7 @@ Tags:
 Links: [[Yearly Reviews]]
 ___
 # <% tp.file.title %>
-[[<%tp.date.now("YYYY", -400)%>]] <== This Year ==> [[<%tp.date.now("YYYY-[W]ww", 400)%>]]
+[[<%tp.date.now("YYYY", -400)%>]] <== This Year ==> [[<%tp.date.now("YYYY", 400)%>]]
 
 > “Your decisions about allocating your personal time, energy, and talent ultimately shape your life’s strategy.”
 ## Quarters
