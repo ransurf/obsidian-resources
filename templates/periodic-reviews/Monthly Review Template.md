@@ -3,7 +3,7 @@ Tags: [[<%tp.date.now("YYYY-[Q]")%><% tp.file.cursor(0) %>]]
 Links: [[Monthly Reviews]]
 ___
 # <% tp.file.title %>
-[[<%tp.date.now("YYYY-[M]MM", -9)%>]] <== This Month ==> [[<%tp.date.now("YYYY-[M]MM", 2)%>]]
+[[<%tp.date.now("YYYY-[M]MM", -45)%>]] <== This Month ==> [[<%tp.date.now("YYYY-[M]MM", 45)%>]]
 - [ ] Remind yourself about the plans in higher-view reviews
 
 > “Your decisions about allocating your personal time, energy, and talent ultimately shape your life’s strategy.”
