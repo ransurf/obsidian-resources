@@ -9,7 +9,7 @@ ___
 ## Quarters
 ```dataview
 table Sentence, Happiness, Productivity, Relationships, Focus
-from outgoing([[Quarterly Reviews]]) AND [[<%tp.date.now("YYYY")%>]]
+from [[Quarterly Reviews]] AND [[<%tp.date.now("YYYY")%>]]
 sort file.name asc
 ```
 ## Reflection
