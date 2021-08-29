@@ -10,7 +10,7 @@ ___
 ## Months
 ```dataview
 table Sentence, Happiness, Productivity, Relationships, Focus
-from outgoing([[Monthly Reviews]]) AND [[<% tp.file.title %>]]
+from [[Monthly Reviews]] AND [[<% tp.file.title %>]]
 sort file.name asc
 ```
 ## Reflection
