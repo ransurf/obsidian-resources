@@ -10,7 +10,7 @@ ___
 ## Weeks
 ```dataview
 table Sentence, Happiness, Productivity, Relationships, Focus
-from outgoing([[Weekly Reviews]]) AND [[<%tp.date.now("YYYY-[M]MM")%>]]
+from [[Weekly Reviews]] AND [[<%tp.date.now("YYYY-[M]MM")%>]]
 sort file.name asc
 ```
 ## Reflection
