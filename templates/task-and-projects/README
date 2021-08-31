@@ -1,1 +1,6 @@
 hi! I'll add stuff here as I find things I need to mention.
+
+**Typing "tq/" before each tag isn't necessary, so if you want to save some time you can get rid of it in all the search queries (this can get a bit messy though)**
+
+**If you find the tq plugin to be too complicated and extensive, you can use the "tasks" plugin instead! Instead of having each task as a note, you can turn the planning in the "execution" header of the project template into the actual task list. Here's a Reddit post discussing the suggestion https://www.reddit.com/r/ObsidianMD/comments/pepced/hey_everyone_i_just_wanted_to_share_my_personal/hb0pvgq?utm_source=share&utm_medium=web2x&context=3, and here's the GitHub repository for the "tasks" plugin in obsidian: https://github.com/schemar/obsidian-tasks**
+
