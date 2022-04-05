@@ -44,7 +44,8 @@ ___
 - 
 <%* } %>
 ### Schedule
-<%tp.file.include("[[Dailies]]")%>
+%% You must have a dailies file for this to work, uncomment once you have one :) %%
+%% <%tp.file.include("[[Dailies]]")%> %%
 ## Reflection
 ### Lingering Feelings, Observations, Thoughts
 
